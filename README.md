@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I design and <b>ship</b> full-stack products end to end — currently building <b>Koda</b>, a voice-first AI coding agent for mobile.<br/>
+  I design and <b>ship</b> full-stack products end to end — currently building <b>Koda</b>, a voice-first coding agent for mobile.<br/>
   TypeScript &amp; React across the web, Flutter on mobile, and Python / Node / Rust powering the backends.
 </p>
 
@@ -65,10 +65,6 @@
 
 ### Connect
 
-[![Email](https://img.shields.io/badge/Email-4b2e83?style=flat-square&logo=gmail&logoColor=white)](mailto:yonieisaiahriveraaguilar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4b2e83?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Isaiahriveraa/Portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-4b2e83?style=flat-square&logo=github&logoColor=white)](https://github.com/Isaiahriveraa)
-
-<!-- Add your LinkedIn here once it's ready, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b2e83?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle/)
--->
+| | | |
+| --- | --- | --- |
+| [![Email](https://img.shields.io/badge/Email-4b2e83?style=flat-square&logo=gmail&logoColor=white)](mailto:yiriveraaa@gmail.com) | [![Portfolio](https://img.shields.io/badge/Portfolio-4b2e83?style=flat-square&logo=vercel&logoColor=white)](https://yirivera.netlify.app/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b2e83?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuODI3IDAtMi4wOTQtLjg2NS0yLjA5NC0xLjU4NSAwLS44OTcuNjgzLTEuMTkyIDEuNDQ0LTEuMTkyLjk3NiAwIDEuODYxLjU5MiAxLjg2MSAxLjUzOSAwIDEuMDc2LTEuMDI5IDEuNTY0LTEuODc3IDEuNTY0di0uMzI2em0tMS42ODUgMTMuMDE5aDMuMzk0VjdIMy42NTJ2MjAuNDUyeiIvPjwvc3ZnPg==&logoColor=white)](https://www.linkedin.com/in/yirivera/) |
