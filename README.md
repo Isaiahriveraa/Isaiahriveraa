@@ -27,14 +27,12 @@
 
 | Project | What it is | Built with |
 | :-- | :-- | :-- |
-| **Koda** &nbsp;`building` | Voice-first AI coding agent for mobile — talk to it and it reports back live, by voice, what it's doing as it works. Real-time voice-to-voice. | `Flutter` · `LiveKit` · `Rust` |
+| **Koda** &nbsp;`building` | Voice-first coding agent for mobile — talk to it and it reports back live, by voice, what it's doing as it works. Real-time voice-to-voice. | `Flutter` · `LiveKit` · `Rust` |
 | **[Guru](https://guruappp.netlify.app/)** &nbsp;`live` | Peer-to-peer tutoring marketplace pairing UW student tutors with learners — smart matching, integrated payments, real-time messaging, and reputation-based groups. *Built at WINFO Hackathon @ UW.* | `React` · `TypeScript` · `Node` · `Supabase` |
 | **[HuskyBids](https://huskybids.me/)** &nbsp;`live` | Virtual sportsbook for UW Huskies — bet with points (not money), live ESPN score tracking, dynamic odds, and fan leaderboards. | `React` · `JavaScript` · `Tailwind` |
 | **[Care Gap Risk Assessment](https://care-gap-risk-assessment.netlify.app/)** &nbsp;`hackathon` | Healthcare access disparities analysis — ranked 76 demographic subgroups by cost-driven care gaps using NHIS data, with interactive visualizations of who gets blocked from healthcare and why. *Top 5 — DubsTech Datathon 2026 @ UW.* | `Next.js` · `Python` · `Tailwind` · `Recharts` |
 | **[Openville](https://github.com/jeremykamber/openville)** &nbsp;`hackathon` | Multi-agent AI marketplace — a swarm of agents search, debate, and negotiate to surface the best candidate for a request, backed by RAG vector search. *Built at the AISC "Hack to the Future" Hackathon @ UW.* | `Next.js` · `OpenAI` · `Supabase` |
 | **LockedIn** &nbsp;`private` | Shared accountability dashboard built from privacy-minimized macOS Screen Time data, with daily app-usage visualizations. | `Next.js` · `Supabase` · `Python` |
-
-<sub>Plus a <a href="https://github.com/Isaiahriveraa/Portfolio">Next.js portfolio</a>, an educational zine on microservices, and open-source contributions to terminal/AI dev tooling.</sub>
 
 ---
 
@@ -55,6 +53,13 @@
 - **DubsTech Datathon 2026** — top 5, data analysis track
 - Hackathons &amp; open-source contributions to terminal / AI developer tooling
 - UW Informatics coursework: server-side dev, software architecture, databases, data viz
+
+
+### Class Projects 
+
+| Project | What it is | Built with |
+| :-- | :-- | :-- |
+| **[Zine on Microservices](https://isaiahriveraa.github.io/Zineonmicroservices/)** &nbsp;`class` | Minimalistic educational zine explaining microservices concepts through cohesive layouts, clear diagrams, and hand-drawn-style elements | `React` · `Vite` |
 
 ---
 
